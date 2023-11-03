@@ -1,0 +1,202 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "phone": "0123456789",
+      "birthday": "1990-01-01",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Software Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@gmail.com",
+      "phone": "9876543210",
+      "birthday": "1995-03-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Computer Science",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michael@gmail.com",
+      "phone": "5551234567",
+      "birthday": "1992-07-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Electrical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "email": "emily@gmail.com",
+      "phone": "3339998888",
+      "birthday": "1993-05-10",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "email": "david@gmail.com",
+      "phone": "7778889999",
+      "birthday": "1991-11-30",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Civil Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 6,
+      "name": "Sophia Lee",
+      "email": "sophia@gmail.com",
+      "phone": "1112223333",
+      "birthday": "1994-09-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Chemical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 7,
+      "name": "William Martinez",
+      "email": "william@gmail.com",
+      "phone": "9995557777",
+      "birthday": "1998-04-05",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Biomedical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 8,
+      "name": "Olivia Taylor",
+      "email": "olivia@gmail.com",
+      "phone": "4446661111",
+      "birthday": "1996-02-18",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Aerospace Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 9,
+      "name": "James Anderson",
+      "email": "james@gmail.com",
+      "phone": "8884442222",
+      "birthday": "1997-06-12",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Biological Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 10,
+      "name": "Isabella Hernandez",
+      "email": "isabella@gmail.com",
+      "phone": "2227775555",
+      "birthday": "1999-08-28",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Environmental Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 11,
+      "name": "Liam Walker",
+      "email": "liam@gmail.com",
+      "phone": "6663339999",
+      "birthday": "1991-12-03",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Industrial Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 12,
+      "name": "Ava Garcia",
+      "email": "ava@gmail.com",
+      "phone": "3336667777",
+      "birthday": "1993-04-22",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Materials Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 13,
+      "name": "Noah Lopez",
+      "email": "noah@gmail.com",
+      "phone": "7771114444",
+      "birthday": "1994-10-08",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Petroleum Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 14,
+      "name": "Mia Adams",
+      "email": "mia@gmail.com",
+      "phone": "5558882222",
+      "birthday": "1992-02-15",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Nuclear Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 15,
+      "name": "Ethan Thomas",
+      "email": "ethan@gmail.com",
+      "phone": "1113337777",
+      "birthday": "1996-09-20",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Biotechnology",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 16,
+      "name": "Sophia Lewis",
+      "email": "sophia@gmail.com",
+      "phone": "9992226666",
+      "birthday": "1995-07-06",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Chemical Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 17,
+      "name": "William Hernandez",
+      "email": "william@gmail.com",
+      "phone": "4445556666",
+      "birthday": "1993-03-12",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Civil Engineering",
+      "admissionYear": "2022"
+    },
+    {
+      "id": 18,
+      "name": "Olivia Smith",
+      "email": "olivia@gmail.com",
+      "phone": "7778881111",
+      "birthday": "1994-05-25",
+      "photo": "https://source.unsplash.com/random/200x200/?portrait",
+      "section": "65/45",
+      "major": "Mechanical Engineering",
+      "admissionYear": "2022"
+    }
+  ]
+}
